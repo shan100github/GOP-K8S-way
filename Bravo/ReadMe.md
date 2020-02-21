@@ -1,4 +1,4 @@
-Let's try to build from bottom to top.
+**Let's try to build from bottom to top.**
 
 1. 2 dir to be created in node01
 2. 2 persistantvolume to be created -> pv.yaml
